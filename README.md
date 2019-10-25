@@ -62,6 +62,12 @@ Add your name to the `CONTRIBUTORS.md` file using the below convention:
 - GitHub: [GitHub account name](GitHub link)
 ```
 
+#### Name: [Tadiwa Duri](github.com/tadiedurie001)
+- Place: Mt Pleasent, Harare, Zimbabwe
+- Bio: I love sports and I am a proud gamer.
+- GitHub: [tadiedurie001](github.com/tadiedurie001)
+```
+
 ### 2. Add a profile page
 Add a `Your_Name.md` file to the `profiles` directory. Use any combination of content and Markdown you'd like. Here is an example:
 
